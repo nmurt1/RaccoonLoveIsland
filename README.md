@@ -1,1 +1,3 @@
 # RaccoonLoveIsland
+
+This is my first ever hackathon game that I made during JPEG (in Ottawa)! It's called Fur Better or Fur Worse and it's a raccoon dating sim. The theme for JPEG was to make a game based on a picture, the picture being of the downtown Tim Hortons being overtaken by raccoons. My group and I decided to make a raccoon dating sim and we had so so much fun! We decide to make the project on Java, which we would later regret, and we all took on different parts of the game to make. We struggled alot with the combat scene in our game, because there were so many endings, variables and just things in general. However, this was an amazing learning experience and I can't wait to do this again!
